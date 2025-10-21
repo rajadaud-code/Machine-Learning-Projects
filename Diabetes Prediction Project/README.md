@@ -36,4 +36,4 @@ The trained model achieved **high accuracy** in predicting diabetes based on pat
 The dataset used is the **PIMA Indians Diabetes Dataset**, available on [Kaggle](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database).
 
 ## 👨‍💻 Author
-Developed by **[Your Name]** — A machine learning beginner exploring real-world datasets.
+Developed by **[Muhammad Daud Israr]** — A machine learning beginner exploring real-world datasets.
